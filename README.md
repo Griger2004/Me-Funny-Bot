@@ -14,4 +14,4 @@ use **!givejoke** in your discord channel and recieve a funny random joke from a
   - TROLL (🤢)
 
 ## Example
-![Example of bot function]("Pictures/MeFunnyBotExample.png")
+![Example of bot function](MeFunnyBotExample.png)
