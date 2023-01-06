@@ -31,6 +31,6 @@ async def on_message(message):
                 bot_joke = await message.channel.send(f"{message.author.mention} {joke}")
                 await bot_joke.add_reaction("😂") #Creates reactions which the users can use to vote wheather the joke was funny or not
                 await bot_joke.add_reaction("🤢")
-TOKEN = 'MTA1OTk5MDI2ODQyMzcwNDcwNw.GXH-UM.YkXvZeJnqxxZHQCaWRsTS22bkIkBsTz5HDiVvo'
+TOKEN = 'YOUR_TOKEN'
 client.run(TOKEN)
 
