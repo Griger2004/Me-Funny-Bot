@@ -1,5 +1,5 @@
 # Me-Funny-Bot
-Enjoy the code to my Me Funny Bot and add implement it to your own server to have a funny time!
+Enjoy the code to my Me Funny Bot and feel free to implement it to your own server to have a funny time!
 
 
 ## Commands
@@ -15,3 +15,6 @@ use **!givejoke** in your discord channel and recieve a funny random joke from a
 
 ## Example
 ![Example of bot function](MeFunnyBotExample.png)
+
+## Sources
+For this bot, I used the [icanhazdadjoke](https://icanhazdadjoke.com/api) API for random jokes  
